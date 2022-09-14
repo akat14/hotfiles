@@ -1,0 +1,30 @@
+[ERROR Tue Sep 13 00:45:16 2022 9415679543708] .../site/pack/packer/start/packer.nvim/lua/packer/async.lua:20: Error in coroutine: ...ack/packer/start/packer.nvim/lua/packer/plugin_utils.lua:204: Vim(lua):E5108: Error executing lua ...m/site/pack/packer/start/nvim-ts-rainbow/lua/rainbow.lua:17: module 'nvim-treesitter.query' not found:
+	no field package.preload['nvim-treesitter.query']
+	no file './nvim-treesitter/query.lua'
+	no file '/usr/share/luajit-2.1.0-beta3/nvim-treesitter/query.lua'
+	no file '/usr/local/share/lua/5.1/nvim-treesitter/query.lua'
+	no file '/usr/local/share/lua/5.1/nvim-treesitter/query/init.lua'
+	no file '/usr/share/lua/5.1/nvim-treesitter/query.lua'
+	no file '/usr/share/lua/5.1/nvim-treesitter/query/init.lua'
+	no file '/home/akat/.cache/nvim/packer_hererocks/2.1.0-beta3/share/lua/5.1/nvim-treesitter/query.lua'
+	no file '/home/akat/.cache/nvim/packer_hererocks/2.1.0-beta3/share/lua/5.1/nvim-treesitter/query/init.lua'
+	no file '/home/akat/.cache/nvim/packer_hererocks/2.1.0-beta3/lib/luarocks/rocks-5.1/nvim-treesitter/query.lua'
+	no file '/home/akat/.cache/nvim/packer_hererocks/2.1.0-beta3/lib/luarocks/rocks-5.1/nvim-treesitter/query/init.lua'
+	no file './nvim-treesitter/query.so'
+	no file '/usr/local/lib/lua/5.1/nvim-treesitter/query.so'
+	no file '/usr/lib/lua/5.1/nvim-treesitter/query.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+	no file '/home/akat/.cache/nvim/packer_hererocks/2.1.0-beta3/lib/lua/5.1/nvim-treesitter/query.so'
+	no file './nvim-treesitter.so'
+	no file '/usr/local/lib/lua/5.1/nvim-treesitter.so'
+	no file '/usr/lib/lua/5.1/nvim-treesitter.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+	no file '/home/akat/.cache/nvim/packer_hererocks/2.1.0-beta3/lib/lua/5.1/nvim-treesitter.so'
+stack traceback:
+	[C]: in function 'require'
+	...m/site/pack/packer/start/nvim-ts-rainbow/lua/rainbow.lua:17: in main chunk
+	[C]: in function 'require'
+	[string ":lua"]:1: in main chunk
+	[C]: in function 'resume'
+	.../site/pack/packer/start/packer.nvim/lua/packer/async.lua:12: in function <.../site/pack/packer/start/packer.nvim/lua/packer/async.lua:11>
+[ERROR Tue Sep 13 00:45:19 2022 9418698461237] .../site/pack/packer/start/packer.nvim/lua/packer/async.lua:20: Error in coroutine: ...ack/packer/start/packer.nvim/lua/packer/plugin_utils.lua:236: Vim:E492: Not an editor command: TSUpdate

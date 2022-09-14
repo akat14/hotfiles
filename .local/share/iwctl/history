@@ -1,0 +1,3 @@
+device wlan0 scan
+station wlan0 scan
+exit
