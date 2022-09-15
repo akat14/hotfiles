@@ -181,3 +181,10 @@ spicetify config extensions adblock.js
 spicetify backup apply
 ```
 This would install the spicetify theme to your Spotify.
+
+<b>Neovim</b>
+'''
+sudo pacman -S nvim xsel
+pip install pynvim
+sudo npm i -h neovim
+'''
