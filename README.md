@@ -1,8 +1,6 @@
 ### Thanks for Visiting! 
 This is my rice heavily based on https://github.com/syndrizzle/hotfiles/tree/bspwm
 
-#### 2. ✨ The Bedazzle BSPWM ✨
-
 ### About:
 * **Kitty** as the terminal.
 * **Tokyo Night** as the color scheme.
@@ -12,7 +10,6 @@ This is my rice heavily based on https://github.com/syndrizzle/hotfiles/tree/bsp
 * **Rofi** as the application launcher.
 * **SLiM** as the Display Manager.
 * **Dunst** as the notification daemon.
-* **Conky** as the desktop eyecandy.
 * **jgmenu** as the desktop root menu.
 * **Polybar** as the main bar.
 
