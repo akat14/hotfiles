@@ -1,6 +1,0 @@
-2022/09/14-00:43:14.931 586 Reusing MANIFEST /home/akat/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2022/09/14-00:43:14.931 586 Recovering log #12
-2022/09/14-00:43:14.931 586 Reusing old log /home/akat/.config/discord/Local Storage/leveldb/000012.log 
-2022/09/14-08:43:22.465 59d6c Level-0 table #16: started
-2022/09/14-08:43:22.481 59d6c Level-0 table #16: 1106503 bytes OK
-2022/09/14-08:43:22.491 59d6c Delete type=0 #12
