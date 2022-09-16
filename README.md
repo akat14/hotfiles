@@ -2,7 +2,7 @@
 This is my rice heavily based on https://github.com/syndrizzle/hotfiles/tree/bspwm
 
 ### About:
-* **alacritty** as the terminal.
+* **Alacritty** as the terminal.
 * **Tokyo Night** as the color scheme.
 * **BSPWM** as the window manager.
 * **Picom (Fluffy Animations)** as the compositor.
@@ -112,9 +112,7 @@ sudo systemctl enable bluetooth
 ```
 
 With that, we have all the dependencies. We can move to the next part.
-</details>
-<details>
-<summary><b>2. Installing GTK Theme:</b></summary>
+<b>2. Installing GTK Theme:</b>
 To match with the current colorscheme, we are using the <a href="https://github.com/Fausto-Korpsvart/Tokyo-Night-GTK-Theme">Tokyo Night GTK Theme</a>
 
 ```bash
@@ -154,7 +152,6 @@ sudo mv usr/ /usr/
 ```
 The usr folder contains the cursor theme and some executable scripts.
 
-</details>
 
 #### Miscllaneous:
 
