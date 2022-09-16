@@ -70,13 +70,13 @@ export LANG="en_US.UTF-8"
 export LC_ALL="en_US.UTF-8"
 
 # Exports
-export VISUAL="vim"
+export VISUAL="nvim"
 export EDITOR="$VISUAL"
 
 # Term
 switch "$TERM_EMULATOR"
-case '*kitty*'
-	export TERM='xterm-kitty'
+case '*alacritty*'
+	export TERM='xterm-alacritty'
 case '*'
 	export TERM='xterm-256color'
 end
@@ -123,8 +123,8 @@ set TERM_EMULATOR (ps -aux | grep (ps -p $fish_pid -o ppid=) | awk 'NR==1{print 
 
 # Neofetch
 switch "$TERM_EMULATOR"
-case '*kitty*'
-	neofetch --backend 'kitty'
+case '*alacritty*'
+	neofetch --backend 'alacritty'
 case '*tmux*' '*login*' '*sshd*' '*konsole*'
 	neofetch --backend 'ascii' --ascii_distro 'arch_small' 
 case '*'

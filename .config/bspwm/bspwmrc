@@ -30,7 +30,6 @@ bspc config borderless_monocle   true
 bspc config gapless_monocle      true
 
 bspc rule -a Peek state=floating
-bspc rule -a kitty state=floating
 bspc config external_rules_command "$HOME/.config/bspwm/scripts/external-rules"
 bspc rule -a conky-manager2 state=floating
 bspc rule -a Kupfer.py focus=on

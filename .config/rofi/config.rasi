@@ -4,7 +4,7 @@ configuration{
     font: "Sofia Pro 16";
     show-icons: true;
     icon-theme: "Papirus";
-    terminal: "kitty";
+    terminal: "alacritty";
     drun-display-format: "{name}";
     location: 0;
     disable-history: false;
